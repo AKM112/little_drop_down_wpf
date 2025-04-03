@@ -21,3 +21,4 @@ C:\Users\akm12\RiderProjects\Dropdown\Dropdown\obj\Debug\net9.0-windows\refint\D
 C:\Users\akm12\RiderProjects\Dropdown\Dropdown\obj\Debug\net9.0-windows\Dropdown.pdb
 C:\Users\akm12\RiderProjects\Dropdown\Dropdown\obj\Debug\net9.0-windows\Dropdown.genruntimeconfig.cache
 C:\Users\akm12\RiderProjects\Dropdown\Dropdown\obj\Debug\net9.0-windows\ref\Dropdown.dll
+C:\Users\akm12\RiderProjects\Dropdown\Dropdown\obj\Debug\net9.0-windows\Dropdown.sourcelink.json

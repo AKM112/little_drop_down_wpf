@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dropdown")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d550e1c6f5718617914e9d1a6037b8cb507f50ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dropdown")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dropdown")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
